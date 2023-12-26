@@ -1,5 +1,5 @@
-
-
+# homework - calculator
+# in python
 def addition(x : float, y : float):
     result = x + y
     
